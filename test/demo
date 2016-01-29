@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 31.630826,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009917,
+      "\u001b]0;george@ArchBox:~/Dropbox/AppendToBuffer/test\u0007"
+    ],
+    [
+      0.004558,
+      "\u001b]0;george@ArchBox: ~/Dropbox/AppendToBuffer/test\u0007george@ArchBox:~/Dropbox/AppendToBuffer/test$ "
+    ],
+    [
+      1.887752,
+      "v"
+    ],
+    [
+      0.119815,
+      "i"
+    ],
+    [
+      0.087927,
+      "m"
+    ],
+    [
+      0.088127,
+      " "
+    ],
+    [
+      0.111924,
+      "-"
+    ],
+    [
+      0.248134,
+      "S"
+    ],
+    [
+      0.183976,
+      " "
+    ],
+    [
+      0.247991,
+      "S"
+    ],
+    [
+      0.175917,
+      "e"
+    ],
+    [
+      0.080049,
+      "s"
+    ],
+    [
+      0.167976,
+      "s"
+    ],
+    [
+      0.136047,
+      "i"
+    ],
+    [
+      0.071939,
+      "o"
+    ],
+    [
+      0.088080,
+      "n"
+    ],
+    [
+      0.159953,
+      "."
+    ],
+    [
+      0.104142,
+      "v"
+    ],
+    [
+      0.127905,
+      "i"
+    ],
+    [
+      0.071896,
+      "m"
+    ],
+    [
+      0.176215,
+      "\r\n"
+    ],
+    [
+      0.129137,
+      "\u001b[?1049h\u001b[?1h\u001b="
+    ],
+    [
+      0.000004,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H"
+    ],
+    [
+      0.013089,
+      "\u001b[1;24r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[23m\u001b[m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000400,
+      "\u001b[?25l\u001b[24;1H\"buffer1\""
+    ],
+    [
+      0.000029,
+      " 5L, 97C"
+    ],
+    [
+      0.014520,
+      "\u001b[24;11H\u001b[K"
+    ],
+    [
+      0.000011,
+      "\u001b[24;11H5L, 97C"
+    ],
+    [
+      0.001011,
+      "\u001b[24;8H2\u001b[24;11H\u001b[K"
+    ],
+    [
+      0.000014,
+      "\u001b[24;11H5L, 97C"
+    ],
+    [
+      0.014053,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000648,
+      "\u001b[1;1H\u001b[33m1   \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  1 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  2 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  3 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  4 \u001b[m\u001b[35C\u001b[7m|\u001b[6;40H|\u001b[7;40H|\u001b[8;40H|\u001b[9;40H|\u001b[10;40H|\u001b[11;40H|\u001b[12;40H|\u001b[13;40H|\u001b[14;40H|\u001b[15;40H|\u001b[16;40H|\u001b[17;40H|\u001b[18;40H|\u001b[19;40H|\u001b[20;40H|\u001b[21;40H|\u001b[22;40H|\u001b[m\u001b[6;1H\u001b[1m\u001b[34m~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \r\n~                                      \u001b[m\r\n\u001b[1m\u001b[7mbuffer1              1,1            All \u001b[m\u001b[1;41H\u001b[33m  2 \u001b[mSome text from buffer2.\u001b[2;41H\u001b[33m  1 \u001b[mSome text from buffer2.\u001b[3;41H\u001b[33m3   \u001b[mSome text from buffer2.\u001b[4;41H\u001b[33m  1 \u001b[mSome text from buffer2.\u001b[5;41H\u001b[33m  2 \u001b[m\u001b[6;41H\u001b[1m\u001b[34m~                                       \u001b[7;41H~                                       \u001b[8;41H~                                       \u001b[9;41H~                                       \u001b[10;41H~                                       \u001b[11;41H~                                       \u001b[12;41H~                                       \u001b[13;41H~                                       \u001b[14;41H~                                       \u001b[15;41H~                                       \u001b[16;41H~                                       \u001b[17;41H~                                       \u001b[18;41H~                                       \u001b[19;41H~                                       \u001b[20;41H~                            "
+    ],
+    [
+      0.000212,
+      "           \u001b[21;41H~                                       \u001b[22;41H~                                       \u001b[m\u001b[23;41H\u001b[7mbuffer2               3,1            All\u001b]2;buffer1 (~/Dropbox/AppendToBuffer/test) ((3) of 2) - VIM\u0007"
+    ],
+    [
+      0.000020,
+      "\u001b]1;buffer1\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.012607,
+      "\u001bP+q436f\u001b\\\u001bP+q6b75\u001b\\\u001bP+q6b64\u001b\\\u001bP+q6b72\u001b\\\u001bP+q6b6c\u001b\\\u001bP+q2332\u001b\\\u001bP+q2334\u001b\\\u001bP+q2569\u001b\\\u001bP+q2a37\u001b\\\u001bP+q6b31\u001b\\"
+    ],
+    [
+      1.158412,
+      "\u001b[?25l\u001b[m\r\u001b[33m  1\r\n2  \r\n  1\r\n  2\r\n  3\u001b[m\u001b[23;22H\u001b[1m\u001b[7m2,\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.295920,
+      "\u001b[?25l\u001b[m\u001b[1;3H\u001b[33m2\r\n  1\r\n3  \r\n  1\r\n  2\u001b[m\u001b[23;22H\u001b[1m\u001b[7m3,\u001b[3;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.344093,
+      "\u001b[?25l\u001b[m\u001b[1;3H\u001b[33m3\r\n  2\r\n  1\r\n4  \r\n  1\u001b[m\u001b[23;22H\u001b[1m\u001b[7m4,\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.704113,
+      "\u001b[?25l\u001b[mS\u001b[7mome text from buffer1. "
+    ],
+    [
+      0.000037,
+      "\u001b[m\u001b[24;1H\u001b[1m-- VISUAL LINE --\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.039623,
+      "\u001b[?25l\u001b[m\u001b[24;1H\u001b[K\u001b[24;1H:"
+    ],
+    [
+      0.000161,
+      "'\u003c,'\u003e\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.527659,
+      "A\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.272161,
+      "p\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151958,
+      "p\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111855,
+      "e\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.111936,
+      "n\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.088220,
+      "d\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.216251,
+      "...\u001b[?25l\u0008\u0008\u0008ToBuffer\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.111758,
+      "\u001b[?25l \u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.663995,
+      "w\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.472023,
+      "\u001b[?25l\u001b[24;22H\u001b[K\u001b[24;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207901,
+      "b\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.096019,
+      "u\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.127857,
+      "f\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136401,
+      "f\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168380,
+      "e\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.079733,
+      "r\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.719712,
+      "...\u001b[?25l\u001b[24;28H\u001b[K\u001b[24;28H\r\r\nbuffer1  buffer2\r\r\n:'\u003c,'\u003eAppendToBuffer buffer\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.576068,
+      "2\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.928567,
+      "\r\u001b[?25l\u001b[24;1H\u001b[K\u001b[24;1H=a:buffer\r\u001b[24;1H\u001b[K\u0007\u001b[24;1H\r\n\u001b[32mPress ENTER or type command to continue\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.704384,
+      "\u001b[m\u001b[1;1H\u001b[3L\u001b[?25l\u001b[1;1H\u001b[33m  3 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  2 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\r\n\u001b[33m  1 \u001b[mSome text from buffer1.\u001b[12C\u001b[7m|\u001b[m\u001b[4;5H\u001b[46m\u003c\u001b[m--SENT TO buffer2--\u001b[46m\u003e\u001b[m   \u001b[23;9H\u001b[1m\u001b[7m[+]\u001b[m\u001b[1;41H\u001b[33m  2 \u001b[mSome text from buffer2.\u001b[2;41H\u001b[33m  1 \u001b[mSome text from buffer2.\u001b[3;41H\u001b[33m3   \u001b[mSome text from buffer2.\u001b[6;41H\u001b[33m  3 \u001b[m\u001b[6;45H\u001b[K\u001b[7;41H\u001b[33m  4 \u001b[mSome text from buffer1.\u001b[7;68H\u001b[K\u001b[23;49H\u001b[7m[+]\u001b[m\u001b[24;1H\u001b[K\u001b]2;buffer1 + (~/Dropbox/AppendToBuffer/test) ((3) of 2) - VIM\u0007\u001b]1;buffer1\u0007\u001b[24;1H\"buffer1\" [Modified] 5 lines --80%-- ((3) of 2)\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.983300,
+      "\u001b[?25l\u001b[1C\u001b[7m--SENT TO buffer2--\u003e \u001b[m\u001b[24;1H\u001b[1m-- VISUAL LINE --\u001b[m\u001b[24;18H\u001b[K\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.808336,
+      "\u001b[?25l\u001b[1C--SENT TO buffer2--\u001b[46m\u003e\u001b[m \u001b[24;1H\u001b[K\u001b[4;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.951327,
+      "\u0007"
+    ],
+    [
+      0.320910,
+      "\u001b]2;buffer2 + (~/Dropbox/AppendToBuffer/test) (2 of 2) - VIM\u0007\u001b]1;buffer2\u0007\u001b[?25l\u001b[23;1H\u001b[7mbuffer1 [+]\u001b[m\u001b[1m\u001b[7m \u001b[m\u0008\u001b[7m          4,1            All\u001b[m\u001b[1m\u001b[7m \u001b[m\u0008\u001b[7m \u001b[m\u001b[1m\u001b[7mbuffer2 [+]           3,1            All\u001b[3;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.615682,
+      "\u001b[?25l\u001b[m\u001b[1;43H\u001b[33m6\u001b[2;43H5\u001b[3;41H  4\u001b[4;43H3\u001b[6;43H1\u001b[7;41H7  \u001b[m\u001b[23;63H\u001b[1m\u001b[7m7,\u001b[7;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.440280,
+      "\u001b[?25l\u001b[mS\u001b[7mome text from buffer1. \u001b[m\u001b[24;1H\u001b[1m-- VISUAL LINE --\u001b[7;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      3.065273,
+      "\u001b[?25l\u001b[mSome text from buffer1.\u001b[7;68H\u001b[K\u001b[24;1H\u001b[K\u001b[7;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.813948,
+      "\u0007\u001b[?25l\u001b[24;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.295949,
+      "q\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191982,
+      "a\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.479995,
+      "!\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.705418,
+      "\r\u001b[?25l"
+    ],
+    [
+      0.000140,
+      "\u001b]2;Terminal - george@ArchBox: ~/Dropbox/AppendToBuffer/test\u0007\u001b]1;Terminal - george@ArchBox: ~/Dropbox/AppendToBuffer/test\u0007\u001b[24;1H\u001b[K\u001b[24;1H"
+    ],
+    [
+      0.000022,
+      "\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.002126,
+      "\u001b]0;george@ArchBox:~/Dropbox/AppendToBuffer/test\u0007"
+    ],
+    [
+      0.004377,
+      "\u001b]0;george@ArchBox: ~/Dropbox/AppendToBuffer/test\u0007george@ArchBox:~/Dropbox/AppendToBuffer/test$ "
+    ],
+    [
+      0.391950,
+      "e"
+    ],
+    [
+      0.192451,
+      "x"
+    ],
+    [
+      0.071709,
+      "i"
+    ],
+    [
+      0.103863,
+      "t"
+    ],
+    [
+      0.640482,
+      "\r\nexit\r\n"
+    ]
+  ]
+}

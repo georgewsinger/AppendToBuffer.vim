@@ -7,3 +7,15 @@ AppendToBuffer is a simple vim plugin which sends selected text to the **bottom*
     <--SENT TO buffer-->
 
 This plugin can be useful when working with a large number of vim buffers. As an added bonus, it supports tab completion.
+
+# Installation
+
+## Via Bundle
+
+Add the following line to `~/.vimrc`:
+
+    Plugin 'georgewsinger/AppendToBuffer.vim'
+
+## Manually
+
+Download the contents of the `plugin/AppendToBuffer.vim` in this git repository to your `~/.vim/plugin/AppendToBuffer.vim`.
